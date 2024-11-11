@@ -12,3 +12,5 @@ while guess_attempts < attempts_limit:
         break
 else:
     print('Max Attempt Reached')
+
+#We will recreate this using a function
